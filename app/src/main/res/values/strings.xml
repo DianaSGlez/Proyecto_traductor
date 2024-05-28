@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Traductor</string>
+    <string name="et_idioma_origen">Ingrese texto</string>
+    <string name="tv_idioma_destino">Traducción</string>
+    <string name="btn_elegir_idioma">Español</string>
+    <string name="btn_idioma_elegido">Inglés</string>
+    <string name="btn_traducir">Traducir</string>
+
+    <string name="desarrollador_txt">Programación de Dispositivos Móviles</string>
+    <string name="email_txt">dianae.solis4250@alumnos.udg.mx</string>
+    <string name="version_txt">Versión: 2.0</string>
+    <string name="btn_entendido">Entendido</string>
+</resources>
